@@ -4,7 +4,7 @@ This is just a plugin to help you install Echelon.<br/>
 
 ## Current Feature :<br/>
 
--Can make bulk install of Echelon<br/>
+-Can install Echelon on map without it<br/>
 
 ## Future Feature :<br/>
 
