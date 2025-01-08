@@ -15,3 +15,20 @@ This is just a plugin to help you install Echelon.
 -Animation Publisher 
 --Requirement :
 Verisify need to add all animation with all they keyframe in the Echelon installation Folder
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Yes the code is a bit spagethi (oof), but it will be fixed in the future.
